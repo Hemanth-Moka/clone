@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-&&2qy+jx4-smt7ba)h!qt9g13mc75uc(m#*=x=_ut5hq)t86y+
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = []
+ALLOWED_HOSTS = ["https://hemanth-moka.github.io/clone/"]
 
 
 # Application definition
